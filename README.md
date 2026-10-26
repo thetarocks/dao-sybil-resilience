@@ -25,4 +25,4 @@ This is an analytical follow-on to the [Arbitrum governance preprint on SSRN](ht
 
 Try the [interactive preview](https://yourcatalyst.in/#research), read the [technical companion](https://yourcatalyst.in/artifacts/sybil-technical-note.pdf), or inspect the [versioned boundary evidence](https://yourcatalyst.in/evidence/sybil-boundaries.json).
 
-The [collection pipeline](https://github.com/thetarocks/arbitrum-quadratic-voting-simulation) is separate. The [main portfolio](https://github.com/thetarocks/catalyst-lab) holds the browser implementation, test suite and project-hosted technical notes. Documentation and portfolio work use coding assistance; no delegate endorsement or observed exploitation is claimed.
+The [collection pipeline](https://github.com/thetarocks/arbitrum-quadratic-voting-simulation) is separate. The [main portfolio](https://github.com/thetarocks/catalyst-lab) holds the browser implementation, test suite and project-hosted technical notes. No delegate endorsement or observed exploitation is claimed.
